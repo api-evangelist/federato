@@ -1,0 +1,25 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://www.federato.ai/llms.txt
+url: https://trust.federato.ai/
+provider: vanta
+# Federato publishes a hosted Trust Center (Vanta). Existence is verified: it is
+# linked from the official marketing site and llms.txt, and the portal + its
+# sub-pages resolve. Named certifications are rendered client-side (JS) on the
+# Vanta portal and are not machine-readable from the server response, so specific
+# framework names (e.g. SOC 2 / ISO 27001) are NOT asserted here to avoid
+# fabrication. Review the portal directly for the current certification list.
+certifications: []
+pages:
+- {label: Trust Center, url: 'https://trust.federato.ai/'}
+- {label: Controls, url: 'https://trust.federato.ai/controls'}
+- {label: Resources, url: 'https://trust.federato.ai/resources'}
+- {label: Subprocessors, url: 'https://trust.federato.ai/subprocessors'}
+evidence:
+- source: https://www.federato.ai/llms.txt
+  kind: official-site-link
+  note: 'Trust Center listed under Company Information and Legal and Compliance'
+- source: https://trust.federato.ai/
+  kind: live-portal
+  note: 'Vanta-hosted trust center resolves (data-slugid present)'

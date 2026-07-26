@@ -1,0 +1,67 @@
+﻿# AI-Native Insurance Platform | Federato
+
+
+The first AI‑native insurance platform designed for the full policy lifecycle. Drive smarter risk decisions, faster quoting, and portfolio alignment with Federato.
+
+
+## Platform Overview
+- [Platform overview](https://www.federato.ai/platform-overview): Federato’s AI-driven platform powers the operational transformation required for profitable underwriting growth.
+
+
+## Underwriting Solutions
+- [Underwriting Platform](https://www.federato.ai/platform/underwriting-platform): Never drift off underwriting strategy in execution, ensuring alignment with business goals.
+- [Submission Triage](https://www.federato.ai/platform/submission-triage): Automatic submission triage uniquely puts the best deals first, optimizing the underwriting process.
+- [Orchestrate](https://www.federato.ai/platform/orchestrate): Unlimited underwriting intelligence, orchestrated your way with AI, enhancing decision-making capabilities.
+
+
+## Data and Infrastructure
+- [Data Infrastructure](https://www.federato.ai/platform/federated-data-infrastructure): The indispensable foundation for powerful analysis and decisive action, supporting data-driven decisions.
+- [Forms Engine](https://www.federato.ai/platform/forms-engine): Policy form generation, configurable by business users, streamlining the documentation process.
+
+
+## Quoting and Pricing
+- [Rate Price Quote](https://www.federato.ai/platform/rate-price-quote): Rate, price, and quote without leaving the platform, facilitating a seamless user experience.
+
+
+## Partner Engagement
+- [Partner Portal](https://www.federato.ai/platform/partner-portal): A modern portal for broker and agent partners, enhancing collaboration and communication.
+
+
+## Content and Resources
+- [Content Hub](https://www.federato.ai/platform/content-hub): Automatically surface what underwriters need, providing relevant information at their fingertips.
+
+
+## Company Information
+- [Company](https://www.federato.ai/about): Learn more about Federato and its mission in the insurance industry.
+- [Careers](https://job-boards.greenhouse.io/federato): Explore career opportunities at Federato and join a team dedicated to innovation in insurance.
+- [Request a demo](https://www.federato.ai/demo): Schedule a demonstration to see the platform in action.
+- [Trust Center](https://trust.federato.ai/): Information on security and compliance measures taken by Federato.
+
+
+## Additional Resources
+- [Case Studies](https://www.federato.ai/resources/case-studies): Review real-world applications and success stories of Federato's platform.
+- [Events](https://www.federato.ai/events): Stay updated on upcoming events where Federato will be present.
+- [Blog](https://www.federato.ai/blog): Insights and updates from the Federato team on industry trends and innovations.
+- [Media](https://www.federato.ai/resources/media): Access press releases and media coverage related to Federato.
+- [Library](https://www.federato.ai/library): A collection of resources and documentation for deeper understanding.
+- [Guides](https://www.federato.ai/resources/guides): Comprehensive guides to help users navigate the platform effectively.
+
+
+## Legal and Compliance
+- [Terms of use](https://www.federato.ai/terms-of-use): Review the terms governing the use of Federato's services.
+- [Privacy](https://www.federato.ai/privacy-policy): Understand how Federato handles user data and privacy concerns.
+- [Controls](https://trust.federato.ai/controls): Information on the controls in place to ensure data security and compliance.
+
+
+## Federato Technologies
+- [Federato Technologies](https://trust.federato.ai/resources): Learn about the technologies that power the Federato platform.
+- [Subprocessors](https://trust.federato.ai/subprocessors): Information on subprocessors used by Federato to deliver its services.
+
+
+## Contact and Engagement
+- [Get a tour](https://www.federato.ai/product-tour): Arrange a tour of the Federato platform to see its features firsthand.
+- [info@federato.ai](mailto:info@federato.ai): Contact Federato directly for inquiries or support.
+- [Meet Federato at ITC Las Vegas](https://www.federato.ai/itc-vegas): Find out more about Federato's participation in industry events.
+
+
+This structured summary provides a comprehensive overview of the Federato platform and its offerings, ensuring clarity and accessibility for users seeking information.

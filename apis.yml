@@ -1,9 +1,26 @@
 aid: federato
 name: Federato
-description: 'Federato is a company surfaced as a portfolio company of emergence-capital and added to
-  the API Evangelist network as a stub for enrichment. Sector: insurance-tech. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Federato is an AI-native insurance technology platform built for the full policy lifecycle,
+  from submission through policyholder management. Its RiskOps-style tooling spans underwriting workflow,
+  automated submission triage, portfolio and appetite alignment, rate/price/quote, a configurable forms
+  engine, federated data infrastructure, and producer, partner, and policyholder portals. Federato serves
+  insurance carriers, managing general agents (MGAs), MGA aggregators, and mutual insurers. The company
+  is backed by Emergence Capital and announced a $100M Series D led by Goldman Sachs. No public API or
+  open developer reference was found during enrichment; the developer documentation portal (Archbee) is
+  magic-link protected, and the GitHub organization holds only forks of third-party infrastructure tools.'
 url: https://raw.githubusercontent.com/api-evangelist/federato/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/68d409d44c688815ba593b39/68dfcfb135ffd60a739bd52f_fe20463d564712d36fff2e7f77e70685_Frame%202147210080.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Insurance Tech
+- InsurTech
+- Insurance
+- Underwriting
+- RiskOps
+- Policy Lifecycle
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,24 @@ maintainers:
 common:
 - type: Website
   url: https://www.federato.ai
+- type: Documentation
+  url: https://docs.federato.ai/
+- type: Blog
+  url: https://www.federato.ai/blog
+- type: GitHubOrganization
+  url: https://github.com/Federato
+- type: TrustCenter
+  url: security/federato-trust-center.yml
+- type: TermsOfService
+  url: https://www.federato.ai/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.federato.ai/privacy-policy
+- type: DomainSecurity
+  url: security/federato-domain-security.yml
+- type: LLMsTxt
+  url: llms/federato-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
