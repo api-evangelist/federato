@@ -9,6 +9,9 @@ description: 'Federato is an AI-native insurance technology platform built for t
   open developer reference was found during enrichment; the developer documentation portal (Archbee) is
   magic-link protected, and the GitHub organization holds only forks of third-party infrastructure tools.'
 url: https://raw.githubusercontent.com/api-evangelist/federato/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or open developer reference was found during enrichment; the developer documentation portal (Archbee) is magic-link protected, and the GitHub organization holds only forks of third-party"
 deliveryModel:
   model: saas
   open_source: false
