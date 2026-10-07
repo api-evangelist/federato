@@ -69,6 +69,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Pricing
+  url: https://www.federato.ai/
+- type: Plans
+  url: plans/federato-plans-pricing.yml
 - type: Website
   url: https://www.federato.ai
 - type: Documentation
